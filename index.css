@@ -1,0 +1,40 @@
+.Container-page-MF {}
+
+.content-mf {
+    background-color: silver;
+    border: 5px solid gainsboro;
+    display: flex;
+
+}
+
+.identite-mf {}
+
+.photo-identite-mf {
+    padding: 10px 10px 10px 10px;
+}
+
+.content-statistiques-mf {
+
+    background-color: green;
+    flex-flow: column wrap;
+}
+
+.content-competences {
+    background-color: red;
+}
+
+.competences-mf {
+    background-color: yellow;
+}
+
+.onglet-competences {
+    background-color: darkmagenta;
+}
+
+.skins-mf {
+    background-color: aquamarine;
+}
+
+.pictures-skins {
+    background-color: firebrick;
+}
